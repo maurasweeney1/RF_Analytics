@@ -1,0 +1,451 @@
+student_id,school_name,school_tier,outcome,award,grad_year,committed
+S01,Montana State University,,Accepted,9000,2026,False
+S01,San Diego State University,,Accepted,,2026,False
+S01,Utah State University,,Accepted,,2026,False
+S01,Loyola Marymount University,,Accepted,,2026,False
+S01,Arizona State University,,Accepted,,2026,False
+S01,Colorado State University,,Accepted,WUE,2026,False
+S01,Grand Canyon University,,Accepted,,2026,False
+S01,Gonzaga University,,Waitlist,,2026,False
+S01,Marquette University,,Waitlist,,2026,False
+S01,University of Arizona,,Rejected,,2026,False
+S01,University of Colorado- Boulder,,Rejected,,2026,False
+S02,Virginia Military Institute,,Accepted,,2026,False
+S02,Colorado School of Mines,,Accepted,,2026,False
+S03,Creighton University,,Accepted,30000,2026,False
+S03,University of Oklahoma ,,Accepted,,2026,False
+S03,Michigan State University,,Accepted,,2026,False
+S03,Texas Christian University,,Accepted,32000,2026,False
+S03,University of Arizona,,Accepted,,2026,False
+S03,Carroll University,,Accepted,,2026,False
+S03,University of Kansas,,Accepted,,2026,False
+S03,University of Idaho,,Accepted,,2026,False
+S03,University of Tennessee,,Rejected,,2026,False
+S03,University of Florida,,Rejected,,2026,False
+S03,University of North Carolina,,Rejected,,2026,False
+S03,University of Texas- Austin,,Rejected,,2026,False
+S03,University of Notre Dame,,Rejected,,2026,False
+S04,University of Oklahoma ,,Accepted,,2026,False
+S04,Auburn University,,Accepted,,2026,False
+S04,Ohio State University,,Accepted,,2026,False
+S04,University of Utah,,Accepted,,2026,False
+S04,University of Colorado- Boulder,,Accepted,,2026,False
+S04,California Polytechnic State University,,Accepted,,2026,False
+S04,Purdue University,,Accepted,,2026,False
+S05,Chapman University,,Accepted,32000,2026,False
+S05,University of Oregon,,Accepted,12000,2026,False
+S05,California Polytechnic State University- Pomona,,Accepted,,2026,False
+S05,University of California- Irvine,,Accepted,,2026,False
+S05,University of Washington,,Waitlist,,2026,False
+S05,California Polytechnic State University,,Waitlist,,2026,False
+S05,San Diego State University,,Waitlist,,2026,False
+S05,University of California Los Angeles,,Rejected,,2026,False
+S05,University of California San Diego,,Rejected,,2026,False
+S06,Auburn University,,Accepted,,2026,False
+S06,Texas Christian University,,Accepted,,2026,False
+S06,University of Washington,,Accepted,,2026,False
+S06,University of Colorado- Boulder,,Accepted,,2026,False
+S06,University of Notre Dame ,,Deferred,,2026,False
+S06,University of Southern California,,Rejected,,2026,False
+S06,University of Texas- Austin,,Waitlist,,2026,False
+S06,University of Notre Dame,,Waitlist,,2026,False
+S07,Washington State University,,Accepted,,2026,False
+S07,University of Idaho,,Accepted,,2026,False
+S08,Boise State University,,Accepted,15000,2026,False
+S08,Washington State University,,Accepted,,2026,False
+S08,Arizona State University,,Accepted,13500,2026,False
+S08,San Diego State University,,Accepted,,2026,False
+S08,University of Arizona,,Accepted,12000,2026,False
+S10,University of Kentucky,,Accepted,,2026,False
+S10,Indiana University,,Accepted,,2026,False
+S10,Auburn University,,Deferred,,2026,False
+S10,University of Tennessee,,Deferred,,2026,False
+S10,University of Georgia,,Deferred,,2026,False
+S10,Clemson University,,Deferred,,2026,False
+S12,Florida Atlantic University,,Accepted,,2026,False
+S12,Ball State University,,Accepted,,2026,False
+S12,Miami University of Ohio,,Accepted,,2026,False
+S12,University of Kentucky,,Accepted,,2026,False
+S12,University of Cincinnati,,Accepted,,2026,False
+S12,University of Indiana,,Accepted,,2026,False
+S12,University of Tennessee,,Deferred,,2026,False
+S12,University of South Carolina,,Deferred,,2026,False
+S12,Texas Christian University,,Deferred,,2026,False
+S12,Auburn University,,Rejected,,2026,False
+S13,Montana State University,,Accepted,,2026,False
+S13,Seton Hall University,,Accepted,27000,2026,False
+S13,Hofstra University,,Accepted,40000,2026,False
+S13,Sarah Lawrence University,,Accepted,40000,2026,False
+S13,Purdue University,,Accepted,,2026,False
+S13,University of Colorado- Boulder,,Accepted,,2026,False
+S13,University of Utah,,Accepted,,2026,False
+S13,Rochester Institute of Technology,,Accepted,,2026,False
+S14,Pacific Lutheran University,,Accepted,29500,2026,False
+S15,University of Alabama,,Accepted,,2026,False
+S15,Indiana University,,Accepted,,2026,False
+S15,University of Arizona,,Accepted,,2026,False
+S15,Texas Christian University,,Deferred,,2026,False
+S15,University of Tennessee,,Rejected,,2026,False
+S15,Clemson University,,Rejected,,2026,False
+S16,Old Dominion University,,Accepted,,2026,False
+S16,University of Maine,,Accepted,20000,2026,False
+S16,Roger Williams University,,Accepted,23500,2026,False
+S16,University of Maryland- Baltimore County,,Accepted,3000,2026,False
+S16,University of Vermont,,Accepted,20000,2026,False
+S16,Drexel University,,Accepted,,2026,False
+S16,West Virginia University,,Accepted,,2026,False
+S16,Rochester Institute of Technology,,Accepted,23000,2026,False
+S17,University of Montana,,Accepted,WUE,2026,False
+S17,University of Utah,,Accepted,,2026,False
+S17,Western Washington University,,Accepted,,2026,False
+S18,Central Washington University,,Accepted,,2026,False
+S18,University of Idaho,,Accepted,,2026,False
+S18,University of Montana,,Accepted,WUE,2026,False
+S18,Colorado State University,,Accepted,,2026,False
+S18,Montana State University,,Accepted,9000,2026,False
+S18,Washington State University,,Accepted,WUE,2026,False
+S18,University of Oregon,,Accepted,,2026,False
+S18,Hawaii Pacific University,,Accepted,,2026,False
+S18,Whitman University,,Accepted,,2026,False
+S18,Oregon State University,,Waitlist,,2026,False
+S18,University of Washington,,Waitlist,,2026,False
+S19,Pepperdine University,,Accepted,,2026,False
+S19,San Francisco State University,,Accepted,,2026,False
+S19,New York State University,,Waitlist,,2026,False
+S19,Fordham University,,Waitlist,,2026,False
+S20,Colorado School of Mines,,Accepted,12000,2026,False
+S20,Santa Clara University,,Accepted,,2026,False
+S20,University of Utah,,Accepted,,2026,False
+S20,University of Colorado- Boulder,,Accepted,,2026,False
+S20,University of Washington,,Accepted,,2026,False
+S20,University of California Davis,,Accepted,,2026,False
+S20,California Polytechnic State University,,Accepted,,2026,False
+S20,University of California San Diego,,Accepted,,2026,False
+S20,University of Michigan,,Waitlist,,2026,False
+S20,University of California Irvine,,Waitlist,,2026,False
+S20,University of California Los Angeles,,Rejected,,2026,False
+S20,University of Notre Dame,,Rejected,,2026,False
+S21,Washington State University,,Accepted,,2026,False
+S21,University of Oregon,,Accepted,,2026,False
+S21,Rose-Hulman Institute of Technology,,Accepted,,2026,False
+S21,Auburn University,,Accepted,,2026,False
+S21,Texas Tech University,,Accepted,,2026,False
+S21,University of Washington,,Accepted,,2026,False
+S21,University of California Davis,,Accepted,,2026,False
+S21,California Polytechnic State University,,Accepted,,2026,False
+S21,Virginia Tech University,,Waitlist,,2026,False
+S21,Georgia Tech University,,Rejected,,2026,False
+S21,Rice University,,Rejected,,2026,False
+S21,University of Texas- Austin,,Rejected,,2026,False
+S22,Boise State University,,Accepted,,2026,False
+S22,Montana State University,,Accepted,,2026,False
+S22,University of Idaho,,Accepted,,2026,False
+S22,University of Colorado- Boulder,,Waitlist,,2026,False
+S23,Fordham University,,Accepted,,2026,False
+S23,Pennsylvania State University,,Accepted,,2026,False
+S24,Boise State University,,Accepted,,2026,False
+S24,Washington State University,,Accepted,,2026,False
+S24,Arizona State University,,Accepted,,2026,False
+S24,Colorado State University,,Accepted,WUE,2026,False
+S24,Montana State University,,Accepted,,2026,False
+S24,University of Idaho,,Accepted,,2026,False
+S24,San Diego State University,,Accepted,,2026,False
+S24,University of San Diego,,Rejected,,2026,False
+S24,Loyola Marymount University,,Rejected,,2026,False
+S24,University of Arizona,,Rejected,,2026,False
+S25,University of Mississippi,,Accepted,10000,2026,False
+S25,University of North Florida,,Accepted,18600,2026,False
+S25,University of South Florida,,Accepted,16500,2026,False
+S25,Florida Gulf Coast University,,Accepted,22000,2026,False
+S25,Texas Christian University,,Accepted,27000,2026,False
+S25,University of Arizona,,Accepted,18000,2026,False
+S25,University of Tennessee,,Accepted,,2026,False
+S25,Auburn University,,Accepted,,2026,False
+S25,Clemson University,,Waitlist,,2026,False
+S25,University of Florida,,Rejected,,2026,False
+S25,University of North Carolina,,Rejected,,2026,False
+S25,Florida State University ,,Rejected,,2026,False
+S25,University of Texas- Austin,,Rejected,,2026,False
+S26,Oregon State University,,Accepted,,2026,False
+S26,Western Washington University,,Accepted,,2026,False
+S26,Santa Clara University,,Accepted,,2026,False
+S26,University of Oregon,,Accepted,,2026,False
+S26,Gonzaga University,,Accepted,,2026,False
+S26,University of California Santa Cruz,,Accepted,,2026,False
+S26,California Polytechnic State University,,Accepted,,2026,False
+S26,University of Southern California,,Deferred,,2026,False
+S26,Fordham University,,Deferred,,2026,False
+S26,University of Washington,,Waitlist,,2026,False
+S27,University of Utah,,Accepted,3000,2026,False
+S27,University of Denver,,Accepted,33000,2026,False
+S27,Montana State University,,Accepted,14000,2026,False
+S27,Northeastern University,,Accepted,,2026,False
+S27,Colorado School of Mines,,Rejected,,2026,False
+S27,Clemson University,,Rejected,,2026,False
+S28,Louisiana State University ,,Accepted,,2026,False
+S28,Auburn University,,Accepted,,2026,False
+S28,University of Oklahoma ,,Accepted,,2026,False
+S28,Clemson University,,Waitlist,,2026,False
+S28,University of Tennessee,,Waitlist,,2026,False
+S28,Texas Christian University,,Waitlist,,2026,False
+S28,University of South Carolina,,Waitlist,,2026,False
+S28,University of Georgia,,Rejected,,2026,False
+S29,University of Colorado Denver,,Accepted,,2025,True
+S29,Woodbury University,,Accepted,,2025,False
+S29,University of Utah,,Accepted,,2025,False
+S29,Montana State University,,Accepted,,2025,False
+S29,Washington State University,,Accepted,,2025,False
+S29,California Polytechnic State University,,Waitlist,,2025,False
+S29,University of Washington,,Rejected,,2025,False
+S30,Southern Methodist University,,Accepted,,2025,True
+S30,University of Connecticut,,Accepted,,2025,False
+S30,Indiana University,,Accepted,,2025,False
+S30,University of Notre Dame,,Waitlist,,2025,False
+S30,University of Miami,,Waitlist,,2025,False
+S30,University of Illinois Urbana-Champaign,,Rejected,,2025,False
+S31,New York University,,Accepted,,2025,True
+S31,University of California Davis,,Accepted,,2025,False
+S31,University of California San Diego,,Accepted,,2025,False
+S31,University of California Irvine,,Accepted,,2025,False
+S31,California Polytechnic State University,,Accepted,,2025,False
+S31,University of Washington,,Waitlist,,2025,False
+S32,University of Vermont,,Accepted,,2025,True
+S33,United States Coast Guard Academy,,Accepted,,2025,True
+S34,University of Washington,,Accepted,,2025,True
+S35,University of Utah,,Accepted,,2025,True
+S35,Montana State University,,Accepted,,2025,False
+S35,University of Arizona,,Accepted,,2025,False
+S35,University of Idaho,,Accepted,,2025,False
+S35,University of Montana,,Accepted,,2025,False
+S35,University of Nevada,,Accepted,,2025,False
+S35,Western Washington University,,Accepted,,2025,False
+S36,Fort Lewis College,,Accepted,,2025,True
+S36,University of California Davis,,Accepted,,2025,False
+S36,San Diego State University,,Accepted,,2025,False
+S37,University of Utah,,Accepted,,2025,True
+S37,Boise State University,,Accepted,,2025,False
+S37,University of Oregon,,Accepted,,2025,False
+S37,Oregon State University,,Accepted,,2025,False
+S37,Montana State University,,Accepted,,2025,False
+S37,University of Nevada,,Accepted,,2025,False
+S37,University of New Mexico,,Accepted,,2025,False
+S38,University of Notre Dame,,Accepted,,2025,True
+S38,University of Oregon,,Accepted,,2025,False
+S38,Loyola University Chicago,,Accepted,,2025,False
+S38,University of Washington,,Accepted,,2025,False
+S38,Marquette University,,Accepted,,2025,False
+S38,Loyola Marymount University,,Accepted,,2025,False
+S38,University of California Los Angeles,,Accepted,,2025,False
+S38,University of California Berkeley,,Accepted,,2025,False
+S38,University of Southern California,,Waitlist,,2025,False
+S39,Boston College,,Accepted,,2025,True
+S39,University of Washington,,Accepted,,2025,False
+S39,Santa Clara University,,Accepted,,2025,False
+S39,University of San Diego,,Accepted,,2025,False
+S39,University of Utah,,Accepted,,2025,False
+S39,Gonzaga University,,Accepted,,2025,False
+S39,University of Notre Dame,,Rejected,,2025,False
+S40,University of California San Diego,,Accepted,,2025,True
+S40,University of California Los Angeles,,Accepted,,2025,False
+S40,University of Washington,,Accepted,,2025,False
+S40,University of Wisconsin-Madison,,Accepted,,2025,False
+S40,University of Pittsburgh,,Accepted,,2025,False
+S40,University of Connecticut,,Accepted,,2025,False
+S40,Colorado School of Mines,,Accepted,,2025,False
+S40,Gonzaga University,,Accepted,,2025,False
+S40,University of Michigan,,Waitlist,,2025,False
+S40,University of North Carolina,,Waitlist,,2025,False
+S40,University of Notre Dame,,Rejected,,2025,False
+S40,Yale University,,Rejected,,2025,False
+S40,University of California Berkeley,,Rejected,,2025,False
+S41,University of the Pacific,,Accepted,,2025,True
+S42,University of Wisconsin-Madison,,Accepted,,2025,True
+S42,Clemson University,,Accepted,,2025,False
+S42,University of Utah,,Accepted,,2025,False
+S42,Texas Christian University,,Accepted,,2025,False
+S42,University of California Berkeley,,Waitlist,,2025,False
+S42,University of North Carolina,,Rejected,,2025,False
+S42,University of Texas Austin,,Rejected,,2025,False
+S43,Gonzaga University,,Accepted,,2025,True
+S43,University of Colorado Boulder,,Accepted,,2025,False
+S43,University of Utah,,Accepted,,2025,False
+S43,University of Washington,,Waitlist,,2025,False
+S44,University of Montana,,Accepted,,2025,True
+S45,Indiana University,,Accepted,,2025,True
+S45,Michigan State University,,Accepted,,2025,False
+S45,University of Mississippi,,Accepted,,2025,False
+S45,Oregon State University,,Accepted,,2025,False
+S45,University of Oregon,,Accepted,,2025,False
+S45,San Diego State University,,Accepted,,2025,False
+S45,University of Idaho,,Accepted,,2025,False
+S45,University of Washington,,Rejected,,2025,False
+S45,Ohio State University,,Rejected,,2025,False
+S46,University of Wisconsin-Madison,,Accepted,,2025,True
+S46,University of Illinois Urbana-Champaign,,Accepted,,2025,False
+S46,Marquette University,,Accepted,,2025,False
+S47,Western Washington University,,Accepted,,2025,True
+S47,University of Vermont,,Accepted,,2025,False
+S47,University of Portland,,Accepted,,2025,False
+S47,Willamette University,,Accepted,29000,2025,False
+S47,University of Washington Bothell,,Accepted,,2025,False
+S47,University of Washington Tacoma,,Accepted,,2025,False
+S47,University of Washington,,Rejected,,2025,False
+S48,Washington State University,,Accepted,,2025,True
+S48,Northwest Nazarene University,,Accepted,,2025,False
+S49,University of Arizona,,Accepted,,2025,True
+S49,Arizona State University,,Accepted,,2025,False
+S49,University of Portland,,Accepted,,2025,False
+S49,Washington State University,,Accepted,,2025,False
+S49,Westmont College,,Accepted,,2025,False
+S49,Boise State University,,Accepted,,2025,False
+S49,University of Washington,,Waitlist,,2025,False
+S49,University of Texas Austin,,Rejected,,2025,False
+S49,San Diego State University,,Rejected,,2025,False
+S49,California State University Long Beach,,Rejected,,2025,False
+S50,University of San Diego,,Accepted,,2025,True
+S50,University of Oregon,,Accepted,,2025,False
+S50,Oregon State University,,Accepted,,2025,False
+S50,University of Idaho,,Accepted,,2025,False
+S50,Whitworth University,,Accepted,,2025,False
+S50,University of Arizona,,Accepted,,2025,False
+S50,University of La Verne,,Accepted,,2025,False
+S50,California Lutheran University,,Accepted,,2025,False
+S50,Chapman University,,Accepted,,2025,False
+S50,Gonzaga University,,Accepted,,2025,False
+S50,Boise State University,,Accepted,,2025,False
+S50,Colorado State University,,Accepted,,2025,False
+S50,Pepperdine University,,Accepted,,2025,False
+S50,University of Washington,,Waitlist,,2025,False
+S50,Stanford University,,Rejected,,2025,False
+S51,University of Arizona,,Accepted,,2025,True
+S51,Southern Methodist University,,Accepted,,2025,False
+S51,Pepperdine University,,Accepted,,2025,False
+S52,Montana State University,,Accepted,,2025,True
+S52,Colorado State University,,Accepted,WUE,2025,False
+S52,University of Utah,,Accepted,WUE,2025,False
+S52,Oregon State University,,Accepted,WUE,2025,False
+S52,University of Montana,,Accepted,,2025,False
+S52,University of Oregon,,Accepted,,2025,False
+S52,Western Washington University,,Accepted,,2025,False
+S52,University of Washington,,Rejected,,2025,False
+S53,College of William and Mary,,Accepted,,2025,True
+S53,Rutgers University,,Accepted,,2025,False
+S53,University of South Carolina,,Accepted,,2025,False
+S54,California Polytechnic State University Pomona,,Accepted,,2025,False
+S54,University of San Francisco,,Accepted,,2025,False
+S54,Woodbury University,,Accepted,,2025,False
+S54,University of Idaho,,Accepted,,2025,False
+S54,University of Arizona,,Accepted,,2025,False
+S54,California Polytechnic State University,,Waitlist,,2025,False
+S55,Loyola Marymount University,,Accepted,,2025,True
+S56,Texas Christian University,,Accepted,,2025,True
+S57,Boise State University,,Accepted,,2025,True
+S57,University of Idaho,,Accepted,,2025,False
+S57,Montana State University,,Accepted,,2025,False
+S57,University of Montana,,Accepted,,2025,False
+S58,University of Tennessee,,Accepted,,2025,True
+S58,Boise State University,,Accepted,,2025,False
+S58,Auburn University,,Accepted,,2025,False
+S58,University of Alabama,,Accepted,,2025,False
+S58,Belmont University,,Accepted,,2025,False
+S58,University of Arizona,,Accepted,,2025,False
+S58,Marquette University,,Accepted,,2025,False
+S58,West Virginia University,,Accepted,,2025,False
+S58,Montana State University,,Accepted,,2025,False
+S58,University of Connecticut,,Accepted,,2025,False
+S58,Clemson University,,Rejected,,2025,False
+S59,University of Utah,,Accepted,,2025,True
+S59,North Carolina State University,,Accepted,,2025,False
+S59,San Diego State University,,Accepted,,2025,False
+S59,University of Mississippi,,Accepted,,2025,False
+S59,Oregon State University,,Accepted,,2025,False
+S59,University of Arizona,,Accepted,,2025,False
+S59,University of Oregon,,Accepted,,2025,False
+S59,University of Washington,,Waitlist,,2025,False
+S59,Texas A&M University,,Rejected,,2025,False
+S59,Florida State University,,Rejected,,2025,False
+S59,University of Texas Austin,,Rejected,,2025,False
+S60,University of Mississippi,,Accepted,,2025,True
+S60,University of Arizona,,Accepted,,2025,False
+S60,University of Kentucky,,Accepted,,2025,False
+S60,University of Alabama,,Accepted,,2025,False
+S60,Washington State University,,Accepted,,2025,False
+S60,West Virginia University,,Accepted,,2025,False
+S61,University of Idaho,,Accepted,,2025,True
+S62,Western Colorado University,,Accepted,,2025,True
+S62,Utah State University,,Accepted,,2025,False
+S62,University of Idaho,,Accepted,,2025,False
+S62,University of Montana,,Accepted,,2025,False
+S63,Santa Clara University,,Accepted,,2025,True
+S63,University of California Davis,,Accepted,,2025,False
+S63,California Polytechnic State University,,Accepted,,2025,False
+S63,California Baptist University,,Accepted,,2025,False
+S63,University of San Diego,,Accepted,,2025,False
+S63,San Diego State University,,Accepted,,2025,False
+S63,University of Redlands,,Accepted,,2025,False
+S63,University of Southern California,,Waitlist,,2025,False
+S63,University of California San Diego,,Waitlist,,2025,False
+S63,University of California Irvine,,Waitlist,,2025,False
+S64,University of Iowa,,Accepted,,2025,True
+S64,Indiana University,,Accepted,,2025,False
+S64,Marquette University,,Accepted,,2025,False
+S64,Saint Louis University,,Accepted,,2025,False
+S64,University of Wisconsin La Crosse,,Accepted,,2025,False
+S64,University of Cincinnati,,Accepted,,2025,False
+S64,University of Minnesota,,Waitlist,,2025,False
+S65,Utah State University,,Accepted,,2025,True
+S65,Southern Utah University,,Accepted,,2025,False
+S65,Central Washington University,,Accepted,,2025,False
+S65,University of Idaho,,Accepted,,2025,False
+S65,Boise State University,,Accepted,,2025,False
+S65,Idaho State University,,Accepted,,2025,False
+S65,North Idaho College,,Accepted,,2025,False
+S65,College of Idaho,,Accepted,,2025,False
+S65,University of Alaska Fairbanks,,Accepted,,2025,False
+S66,Boise State University,,Accepted,,2025,True
+S66,Eastern Washington University,,Accepted,,2025,False
+S66,University of Utah,,Accepted,,2025,False
+S66,University of Idaho,,Accepted,,2025,False
+S67,California Polytechnic State University,,Accepted,,2025,True
+S67,University of California Davis,,Accepted,,2025,False
+S67,Santa Clara University,,Accepted,,2025,False
+S67,Colorado State University,,Accepted,,2025,False
+S67,Western Washington University,,Accepted,,2025,False
+S67,Scripps College,,Accepted,25000,2025,False
+S67,University of California Santa Barbara,,Waitlist,,2025,False
+S67,University of California Irvine,,Rejected,,2025,False
+S68,University of Utah,,Accepted,WUE,2025,True
+S68,Western Washington University,,Accepted,,2025,False
+S68,Oregon State University,,Accepted,,2025,False
+S68,University of Washington,,Waitlist,,2025,False
+S69,Carroll College,,Accepted,,2025,True
+S69,Whitworth University,,Accepted,,2025,False
+S69,Gonzaga University,,Accepted,,2025,False
+S69,Western Washington University,,Waitlist,,2025,False
+S70,California Polytechnic State University,,Accepted,,2025,True
+S70,University of Washington,,Accepted,,2025,False
+S70,Western Washington University,,Accepted,,2025,False
+S70,University of Vermont,,Accepted,,2025,False
+S70,Pennsylvania State University,,Accepted,,2025,False
+S70,University of California Davis,,Accepted,,2025,False
+S70,University of California Irvine,,Accepted,,2025,False
+S70,University of California Santa Barbara,,Accepted,,2025,False
+S70,University of California San Diego,,Rejected,,2025,False
+S71,Eastern Washington University,,Accepted,,2025,True
+S71,University of Nevada Las Vegas,,Accepted,,2025,False
+S71,Central Washington University,,Rejected,,2025,False
+S72,Montana State University,,Accepted,,2025,True
+S72,Wichita State University,,Accepted,,2025,False
+S72,University of Montana,,Accepted,,2025,False
+S73,University of Minnesota,,Accepted,,2025,True
+S73,Purdue University,,Accepted,,2025,False
+S73,University of Arizona,,Accepted,,2025,False
+S73,Michigan State University,,Accepted,,2025,False
+S73,University of North Texas,,Accepted,,2025,False
+S73,Clemson University,,Waitlist,,2025,False
+S74,Purdue University,,Accepted,,2025,False
+S74,University of Arizona,,Accepted,,2025,False
+S74,Michigan State University,,Accepted,,2025,False
+S74,University of North Texas,,Accepted,,2025,False
+S74,University of Minnesota,,Accepted,,2025,True
+S74,Clemson University,,Waitlist,,2025,False

@@ -1,0 +1,74 @@
+﻿student_id,name,gpa,weighted,sat,act,ap_ib_college_taken,ap_Avg_score,class_rank,class_size,grad_year,activities_count,activity_types
+S01,Lukas Arnold,3.214,no,,,0,,,,2026,10,"Community Service (Volunteer), Athletics: Club, Athletics: JV/Varsity, Career Oriented, Work (Paid), Other Club/Activity"
+S02,Reed Bott,4.16,yes,1370,,10,,34.0,375.0,2026,10,"Community Service (Volunteer), Science/Math, Athletics: Club, Athletics: JV/Varsity, Work (Paid), Internship, Other Club/Activity"
+S03,Ryan Carney,4.0,yes,,,2,,,,2026,10,"Community Service (Volunteer), Debate/Speech, Athletics: Club, Athletics: JV/Varsity, Work (Paid), Other Club/Activity"
+S04,Joey Dittrich,4.11,yes,1440.0,,7,3.0,,,2026,10,"Community Service (Volunteer), Athletics: JV/Varsity, Athletics: Club, Work (Paid), Other Club/Activity"
+S05,Jayden Fritz,4.3,yes,,,11.0,3.5,,,2026,10,"Community Service (Volunteer), Foreign Language, Religious, Athletics: JV/Varsity, Athletics: Club, Internship, Other Club/Activity"
+S06,Emma Gee,4.495,yes,,31.0,4.0,4.0,,,2026,10,"Community Service (Volunteer), School Spirit, Religious, Athletics: JV/Varsity, Work (Paid)"
+S07,Dylynn Groves,3.9,no,,,0,,,,2026,7,"Community Service (Volunteer), Religious, Athletics: Club, Athletics: JV/Varsity"
+S08,Brady Haff,3.695,no,,,0,,33.0,110.0,2026,6,"Community Service (Volunteer), Athletics: Club, Athletics: JV/Varsity, Work (Paid), Other Club/Activity"
+S09,Jack Hazlewood,,,1300.0,,5.0,3.0,,,2026,10,"Community Service (Volunteer), Career Oriented, Athletics: JV/Varsity, Athletics: Club, Work (Paid), Other Club/Activity"
+S10,Bella Holmes,3.975,no,1250.0,,1,,,,2026,9,"Community Service (Volunteer), Internship, Career Oriented, Athletics: JV/Varsity, Other Club/Activity"
+S11,Drew Isakson,,,,,,,,,2026,,
+S12,Cate Kelley,3.412,no,1130.0,,0,,60.0,300.0,2026,10,"Community Service (Volunteer),Student Govt./Politics, Internship, Athletics: JV/Varsity, Work (Paid), Other Club/Activity"
+S13,Addie Memmer,3.9,no,,,7,,,,2026,10,"Community Service (Volunteer), Art, Foreign Language, Athletics: JV/Varsity, Work (Paid)"
+S14,Nate Moore,3.39,yes,,,0,,,,2026,9,"Internship, Religious, Athletics: Club, Athletics: JV/Varsity, Work (Paid), Other Club/Activity"
+S15,Vince Moore,3.979,yes,,,9,,,,2026,10,"Community Service (Volunteer), Debate/Speech, Religious, Athletics: Club, Athletics: JV/Varsity, Other Club/Activity"
+S16,Everett Moulds,3.8049,yes,,,4,,153.0,484.0,2026,7,"Community Service (Volunteer), Robotics, Athletics: Club, Athletics: JV/Varsity, Other Club/Activity"
+S17,Wes Oranen,4.2,yes,,,0,,,,2026,6,"Computer/Technology, Art, Athletics: Club, Athletics: JV/Varsity, Work (Paid)"
+S18,Violette Persling,3.196,yes,1160.0,,9.0,3.0,42.0,58.0,2026,8,"Community Service (Volunteer), Journalism/Publication, Student Govt./Politics, Art, Athletics: JV/Varsity, Work (Paid), Other Club/Activity"
+S19,Ashley Phelan,3.91,yes,,,5.0,4.5,,,2026,9,"Community Service (Volunteer), Science/Math, Music: Vocal, Student Govt./Politics, Athletics: Club, Athletics: JV/Varsity, Other Club/Activity"
+S20,Lily Romey,3.98,no,,32.0,8.0,3.75,,,2026,10,"Community Service (Volunteer), Academic, Athletics: Club, Athletics: JV/Varsity, Work (Paid)"
+S21,Jessie Sawyer,3.787,no,,32.0,14.0,,,,2026,10,"Community Service (Volunteer), Art, Theater/Drama, Career Oriented, Student Govt./Politics, Athletics: Club, Athletics: JV/Varsity, Other Club/Activity"
+S22,Royce Sharp,3.3,no,,,1,,113.0,249.0,2026,5,"Athletics: Club, Work (Paid), Other Club/Activity"
+S23,Mariam Sheikh,3.829,yes,,,3.0,,,,2026,10,"Community Service (Volunteer), Dance, Career Oriented, Academic, Internship, Work (Paid), Other Club/Activity"
+S24,Sam Skoog,3.276,yes,,,3,,,,2026,10,"Community Service (Volunteer), Cultural, Career Oriented, Athletics: JV/Varsity, Work (Paid), Other Club/Activity"
+S25,Trey Spratt,3.8846,no,1240.0,,6.0,3.0,95.0,514.0,2026,8,"Community Service (Volunteer), Career Oriented, Journalism/Publication, Athletics: JV/Varsity, Work (Paid)"
+S26,Skyler Tierney,3.817,no,1300.0,,11.0,3.667,,,2026,10,"Community Service (Volunteer), Art, Foreign Exchange, Dance, Athletics: Club, Athletics: JV/Varsity, Work (Paid), Other Club/Activity"
+S27,Brody Vleck,3.79,yes,,31.0,6,3.5,,,2026,8,"Community Service (Volunteer), Athletics: JV/Varsity, Work (Paid), Other Club/Activity"
+S28,Morgan Wallace,3.66,yes,,29.0,2.0,3.0,192.0,500.0,2026,10,"Community Service (Volunteer), School Spirit, Student Govt./Politics, Athletics: Club, Athletics: JV/Varsity, Work (Paid)"
+S29,Alex Bennett,3.637,no,,,14,,,,2025,,
+S30,Andrew Maloblocki,4.0,yes,,,4,,,,2025,,
+S31,Chanthea Biador,4.298,yes,,,13,,,,2025,,
+S32,Mia Cassetta,4.0,no,1310,,6,4.4,17,536,2025,,
+S33,Will Clay,4.129,yes,,,2,,9,536,2025,,
+S34,Violet Cleary,,,,,,,,,2025,,
+S35,Thomas Collins,3.11,no,,,3,,,,2025,,
+S36,Hope Colwell,4.22,yes,,,8,,9,135,2025,,
+S37,Ben Crabb,4.195,yes,1280,,4,4,18,378,2025,,
+S38,Elle Dahl,4.369,yes,,,10,,,,2025,,
+S39,Molly Davidson,3.953,no,,,5,,,,2025,,
+S40,Owen Dietz,4.308,yes,,,5,,1,155,2025,,
+S41,Cody Dimpflmaier,,,,,1,,,,2025,,
+S42,Paul Dittrich,,,,,3,,,,2025,,
+S43,Kinsey Don Carlos,,,,,3,,,,2025,,
+S44,Caroline Duffy,,,,,,,,,2025,,
+S45,Ian Fallis,3.572,no,,,7,,,,2025,,
+S46,Joslyn Galbraith,4.0,no,,,6,,1,391,2025,,
+S47,Kailey Grant,,,,,3,,,,2025,,
+S48,Valeria Guzman,3.27,no,,,8,,,,2025,,
+S49,Katie Harris,3.834,no,,,10,,,,2025,,
+S50,Miles Hoover,,,,,3,,,,2025,,
+S51,Brogan Howell,3.813,no,,,6,,,,2025,,
+S52,Maggie Jones,3.221,no,,,2,,,,2025,,
+S53,Andrew Kahn,4.0,yes,,,6,,,,2025,,
+S54,Lincoln Koyama,,,,,,,,,2025,,
+S55,Marcus Kwon,3.483,no,,30,0,,,,2025,,
+S56,Makena Miller,4.11,no,,,6,,,,2025,,
+S57,Skyah Olson,3.694,no,,,2,,,,2025,,
+S58,Shaelyn Oxford,3.819,yes,1290,,6,4.67,,,2025,,
+S59,John Pary,3.948,yes,,,3,,,,2025,,
+S60,Bailey Patterson,,,,,4,,,,2025,,
+S61,Phyllis Prosser,3.833,no,,,,,,,2025,,
+S62,Emmaline Spyra,,,,,3,,,,2025,,
+S63,Bella Strahl,4.38,yes,,,3,,,,2025,,
+S64,Julia Strobusch,3.33,no,,,3,,,,2025,,
+S65,Henry Sturgis,3.1556,no,870,,0,,,,2025,,
+S66,Kaiden Sweatt,3.843,yes,,,1,,,,2025,,
+S67,Sophia Tehrani,,,,,0,,,,2025,,
+S68,Sydney Vernon,,,,,4,,,,2025,,
+S69,Cyrille Wangama,3.413,no,,,1,,,,2025,,
+S70,Sophie Whipple,3.974,no,,,3,,,,2025,,
+S71,Brandy Williams,,,,,,,,,2025,,
+S72,Angus Wolf,2.4762,no,,22,0,,,,2025,,
+S73,Pack Davis,,,,,,,,,2025,,
